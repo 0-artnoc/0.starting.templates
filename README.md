@@ -28,4 +28,6 @@
   <li><a href="http://modernizr.com/">modernizr</a>;</li>
   <li><a href="https://github.com/scottjehl/Respond">Respond.js</a></li>
 </ul>
-Thanks Alex agragregra.
+
+
+Thanks Alex <a href="https://github.com/agragregra">agragregra</a>
