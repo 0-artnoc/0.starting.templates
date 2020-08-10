@@ -31,3 +31,6 @@
 
 
 Thanks Alex <a href="https://github.com/agragregra">agragregra</a>
+
+
+[![Known Vulnerabilities](https://snyk.io/test/github/Artnoc1/starting_templates/badge.svg?targetFile=_optimized_gulp_sass/package.json)](https://snyk.io/test/github/Artnoc1/starting_templates?targetFile=_optimized_gulp_sass/package.json)
