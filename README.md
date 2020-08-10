@@ -1,4 +1,7 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/Artnoc1/starting_templates/badge.svg?targetFile=_optimized_gulp_sass/package.json)](https://snyk.io/test/github/Artnoc1/starting_templates?targetFile=_optimized_gulp_sass/package.json)# Стартовые шаблоны для адаптивной верстки сайтов
+[![Known Vulnerabilities](https://snyk.io/test/github/Artnoc1/starting_templates/badge.svg?targetFile=_optimized_gulp_sass/package.json)](https://snyk.io/test/github/Artnoc1/starting_templates?targetFile=_optimized_gulp_sass/package.json)
+---
+
+# Стартовые шаблоны для адаптивной верстки сайтов
 Чистые, готовые к бою HTML5 шаблоны (CSS и SASS), предназначенные для ускорения разработки современных адаптивных сайтов. Шаблоны содержат наиболее используемые и актуальные компоненты. 
 <h2>Стартовые CSS (SASS) файлы:</h2>
 <ul>
